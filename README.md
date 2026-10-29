@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadatamirzada&theme=tokyonight"/></td>
-    <td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadatamirzada&theme=tokyonight"/></td>
+    <td><img height="160" src="./languages.svg"/></td>
     <td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadatamirzada&theme=tokyonight&utcOffset=4"/></td>
   </tr>
 </table>
