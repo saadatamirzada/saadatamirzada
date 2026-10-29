@@ -1,55 +1,60 @@
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header" width="100%"/>
 
 <div align="center">
 
-> Artifical Inteligence engineer
+<!-- SUBTITLE (Japanese: "Game Programmer") -->
+<p>ゲームプログラマー</p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=saadatamirzada&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F261984205%3Fu%3D6c692bfe6f6bf7a185ed7f5159387224c7dc82a5%26v%3D4" alt="saadatamirzada hero visual" />
-</p>
+<!-- TYPING TEXT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Nuray+%F0%9F%91%8B;Future+Gameplay+Programmer;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<!-- ROW 1: STATS / TOP LANGUAGES / COMMITS -->
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=4"/>
+
+<!-- ROW 2: PROFILE DETAILS + STREAK -->
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img height="190" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=false&background=0d1117"/>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=58A6FF"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YOUTUBE-0d1117?style=for-the-badge&logo=youtube&logoColor=58A6FF"/></a>
+<a href="https://YOUR_ITCH.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-0d1117?style=for-the-badge&logo=itchdotio&logoColor=58A6FF"/></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-0d1117?style=for-the-badge&logo=discord&logoColor=58A6FF"/></a>
+
+<br/><br/>
+
+<!-- TECH ICONS -->
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,html,css,js,git,github,vscode,blender&theme=dark"/>
+
+<br/><br/>
+
+<!-- GIF (upload your own to imgur.com and paste the direct .gif link) -->
+<img src="https://i.imgur.com/YOUR_GIF_ID.gif" width="100"/>
+
+<br/>
+
+<!-- VISITOR COUNTER -->
+<img src="https://visit-counter.vercel.app/counter.png?page=YOUR_USERNAME&s=36&c=58A6FF&bg=00000000&no=7&ff=electrolize&tb=VISITS:%20&ta="/>
+
+<br/><br/>
+
+<!-- FOOTER LINKS -->
+⭐ <a href="https://github.com/YOUR_USERNAME?tab=repositories">repos</a> •
+<a href="https://github.com/YOUR_USERNAME?tab=stars">stars</a> •
+<a href="https://YOUR_ITCH.itch.io">games</a> ⭐
 
 </div>
 
-## Evidence
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=saadatamirzada&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F261984205%3Fu%3D6c692bfe6f6bf7a185ed7f5159387224c7dc82a5%26v%3D4" alt="saadatamirzada stats visual" />
-</p>
-
-<p><code>15 contributions</code> · <code>0 day streak</code></p>
-
-## Methods and tools
-
-- **Jupyter Notebook** · 99%
-
-## Research notes
-
-<details open>
-<summary><b>profile.manifest</b></summary>
-
-```yaml
-name: Saadat Amirzada
-focus: public experiments
-languages: [Jupyter Notebook, HTML, Python, JavaScript, CSS]
-repositories: 6
-```
-
-</details>
-
-## Experiments
-
-- **[Multiclass-Logistic-Regression-From-Scratch](https://github.com/saadatamirzada/Multiclass-Logistic-Regression-From-Scratch)** — Featured public work · ⭐ 0
-- **[Decision-Tree-and-Random-Forest-Analysis](https://github.com/saadatamirzada/Decision-Tree-and-Random-Forest-Analysis)** — Featured public work · ⭐ 0
-- **[RNN-vs.-LSTM-Sentiment-Analyzer](https://github.com/saadatamirzada/RNN-vs.-LSTM-Sentiment-Analyzer)** — Featured public work · ⭐ 0
-- **[Resaerch-about-Boost-Algorithms](https://github.com/saadatamirzada/Resaerch-about-Boost-Algorithms)** — Featured public work · ⭐ 0
-- **[Advanced-RAG-Pipeline-with-Reranking](https://github.com/saadatamirzada/Advanced-RAG-Pipeline-with-Reranking)** — Featured public work · ⭐ 0
-- **[emnist-character-recognition](https://github.com/saadatamirzada/emnist-character-recognition)** — Featured public work · ⭐ 0
-
-## Compare notes
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=saadatamirzada&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F261984205%3Fu%3D6c692bfe6f6bf7a185ed7f5159387224c7dc82a5%26v%3D4" alt="saadatamirzada social visual" />
-</p>
-
-<a href="https://github.com/saadatamirzada">GitHub</a> · <a href="https://www.linkedin.com/in/saadat-amirzada">Website</a>
-
-<p align="center"><sub>Saadat Amirzada · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
