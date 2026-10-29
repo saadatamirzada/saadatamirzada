@@ -1,10 +1,7 @@
-## Data lab notebook
 
 <div align="center">
 
-# Saadat Amirzada
-
-> Frontend or full-stack engineer
+> Artifical Inteligence engineer
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=saadatamirzada&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F261984205%3Fu%3D6c692bfe6f6bf7a185ed7f5159387224c7dc82a5%26v%3D4" alt="saadatamirzada hero visual" />
