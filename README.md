@@ -3,12 +3,9 @@
 
 <div align="center">
 
-<!-- SUBTITLE (Japanese: "Game Programmer") -->
-<p>ゲームプログラマー</p>
-
 <!-- TYPING TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Saadat+%F0%9F%91%8B;Future+Gameplay+Programmer;C%23+%7C+JavaScript" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Saadat+%F0%9F%91%8B;Future+AI+Engineer;C%23+%7C+JavaScript" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
