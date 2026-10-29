@@ -3,10 +3,12 @@
 
 <div align="center">
 
+<!-- SUBTITLE (Japanese: "Game Programmer") -->
+<p>ゲームプログラマー</p>
 
 <!-- TYPING TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Nuray+%F0%9F%91%8B;Future+Gameplay+Programmer;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Saadat+%F0%9F%91%8B;Future+Gameplay+Programmer;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -37,8 +39,9 @@
 
 <br/><br/>
 
-<!-- GIF (upload your own to imgur.com and paste the direct .gif link) -->
-<img src="https://i.imgur.com/YOUR_GIF_ID.gif" width="100"/>
+<!-- GIF: to add one, drag your .gif into the GitHub README editor and paste the generated link here, e.g.
+<img src="https://github.com/user-attachments/assets/XXXX" width="100"/>
+-->
 
 <br/>
 
