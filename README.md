@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<!-- SUBTITLE (Japanese: "Game Programmer") -->
-<p>ゲームプログラマー</p>
 
 <!-- TYPING TEXT -->
 <a href="https://git.io/typing-svg">
@@ -14,13 +12,13 @@
 <br/><br/>
 
 <!-- ROW 1: STATS / TOP LANGUAGES / COMMITS -->
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=4"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadatamirzada&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadatamirzada&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadatamirzada&theme=github_dark&utcOffset=4"/>
 
 <!-- ROW 2: PROFILE DETAILS + STREAK -->
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-<img height="190" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=false&background=0d1117"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadatamirzada&theme=github_dark"/>
+<img height="190" src="https://streak-stats.demolab.com?user=saadatamirzada&theme=github-dark-blue&hide_border=false&background=0d1117"/>
 
 <br/><br/>
 
@@ -45,13 +43,13 @@
 <br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://visit-counter.vercel.app/counter.png?page=YOUR_USERNAME&s=36&c=58A6FF&bg=00000000&no=7&ff=electrolize&tb=VISITS:%20&ta="/>
+<img src="https://visit-counter.vercel.app/counter.png?page=saadatamirzada&s=36&c=58A6FF&bg=00000000&no=7&ff=electrolize&tb=VISITS:%20&ta="/>
 
 <br/><br/>
 
 <!-- FOOTER LINKS -->
-⭐ <a href="https://github.com/YOUR_USERNAME?tab=repositories">repos</a> •
-<a href="https://github.com/YOUR_USERNAME?tab=stars">stars</a> •
+⭐ <a href="https://github.com/saadatamirzada?tab=repositories">repos</a> •
+<a href="https://github.com/saadatamirzada?tab=stars">stars</a> •
 <a href="https://YOUR_ITCH.itch.io">games</a> ⭐
 
 </div>
