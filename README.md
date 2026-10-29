@@ -46,15 +46,21 @@
 
 <br/><br/>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=saadatamirzada&color=1a2550&style=for-the-badge&label=VISITS"/>
+<!-- PIXEL GIF: drag your .gif into the GitHub editor, then paste the generated link below -->
+<img src="PASTE_GIF_LINK_HERE" width="110"/>
+
+<br/>
+
+<!-- VISITOR COUNTER (digital font, like the reference) -->
+<img src="https://visit-counter.vercel.app/counter.png?page=saadatamirzada&s=36&c=70a5fd&bg=00000000&no=7&ff=electrolize&tb=VISITS:%20&ta="/>
 
 <br/><br/>
 
 <!-- FOOTER LINKS -->
-⭐ <a href="https://github.com/saadatamirzada?tab=repositories">repos</a> •
-<a href="https://github.com/saadatamirzada?tab=stars">stars</a> •
-<a href="https://YOUR_ITCH.itch.io">games</a> ⭐
+♡ <a href="https://github.com/saadatamirzada?tab=repositories">repos</a> ✧
+<a href="https://github.com/saadatamirzada?tab=stars">stars</a> ✧
+<a href="https://YOUR_ITCH.itch.io">itch.io</a> ✧
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">linkedin</a> ♡
 
 </div>
 
