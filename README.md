@@ -8,7 +8,7 @@
 
 <!-- TYPING TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Saadat+%F0%9F%91%8B;Future+Gameplay+Programmer;Unity+%7C+C%23+%7C+C%2B%2B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Be+welcome!;I'm+Saadat+%F0%9F%91%8B;Future+Gameplay+Programmer;C%23+%7C+JavaScript" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -36,13 +36,11 @@
 <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-1a2550?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1a2550?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YOUTUBE-1a2550?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://YOUR_ITCH.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-1a2550?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-1a2550?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br/><br/>
 
 <!-- TECH ICONS -->
-<img src="https://skillicons.dev/icons?i=cpp,cs,unity,html,css,js,git,github,vscode,blender&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
@@ -59,7 +57,6 @@
 <!-- FOOTER LINKS -->
 ♡ <a href="https://github.com/saadatamirzada?tab=repositories">repos</a> ✧
 <a href="https://github.com/saadatamirzada?tab=stars">stars</a> ✧
-<a href="https://YOUR_ITCH.itch.io">itch.io</a> ✧
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">linkedin</a> ♡
 
 </div>
