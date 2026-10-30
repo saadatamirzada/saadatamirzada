@@ -29,7 +29,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="mailto:saadat.amirzada@gmail.com">
+<a href="mailto:saadat.amirzada@gmail.com?subject=Hello">
   <img src="https://img.shields.io/badge/GMAIL-1a2550?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-1a2550?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/saadat-amirzada"><img src="https://img.shields.io/badge/LINKEDIN-1a2550?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
