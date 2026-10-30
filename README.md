@@ -65,7 +65,7 @@
 <br/><br/>
 
 <!-- ANIMATED EMOJI -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin%20Face.png" width="100"/>
 
 <br/>
 
