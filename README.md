@@ -56,7 +56,7 @@
 <!-- FOOTER LINKS -->
 ♡ <a href="https://github.com/saadatamirzada?tab=repositories">repos</a> ✧
 <a href="https://github.com/saadatamirzada?tab=stars">stars</a> ✧
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/saadat-amirzada)">linkedin</a> ♡
+<a href="https://linkedin.com/in/saadat-amirzada">linkedin</a> ♡
 
 </div>
 
