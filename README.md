@@ -14,7 +14,9 @@
 <table>
   <tr>
     <td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadatamirzada&theme=tokyonight"/></td>
-    <td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadatamirzada&theme=tokyonight"/></td>
+    <td>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadatamirzada&theme=tokyonight&title_color=70a5fd&text_color=70a5fd&bg_color=1a1b27&chart_color=70a5fd"/>
+</td>
     <td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadatamirzada&theme=tokyonight&utcOffset=4"/></td>
   </tr>
 </table>
